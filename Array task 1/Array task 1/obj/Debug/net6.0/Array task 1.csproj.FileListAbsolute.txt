@@ -1,0 +1,15 @@
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\bin\Debug\net6.0\Array task 1.exe
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\bin\Debug\net6.0\Array task 1.deps.json
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\bin\Debug\net6.0\Array task 1.runtimeconfig.json
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\bin\Debug\net6.0\Array task 1.dll
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\bin\Debug\net6.0\Array task 1.pdb
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.AssemblyInfoInputs.cache
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.AssemblyInfo.cs
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.dll
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\refint\Array task 1.dll
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.pdb
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\Array task 1.genruntimeconfig.cache
+C:\Users\Notebook\source\Desktop\Array task 1\Array task 1\obj\Debug\net6.0\ref\Array task 1.dll
